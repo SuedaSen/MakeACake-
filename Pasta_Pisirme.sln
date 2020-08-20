@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pasta_Pisirme", "Pasta_Pisirme\Pasta_Pisirme.csproj", "{BF6E25DC-40E6-46EA-A5E0-FC747B5C2B2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF6E25DC-40E6-46EA-A5E0-FC747B5C2B2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF6E25DC-40E6-46EA-A5E0-FC747B5C2B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF6E25DC-40E6-46EA-A5E0-FC747B5C2B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF6E25DC-40E6-46EA-A5E0-FC747B5C2B2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {538D4352-6CB5-4022-A0D8-E6E7CCA98A9F}
+	EndGlobalSection
+EndGlobal

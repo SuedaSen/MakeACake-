@@ -1,0 +1,20 @@
+C:\Users\MSİ\Desktop\Pasta_Pisirme\Pasta_Pisirme\bin\Debug\Pasta_Pisirme.exe.config
+C:\Users\MSİ\Desktop\Pasta_Pisirme\Pasta_Pisirme\bin\Debug\Pasta_Pisirme.exe
+C:\Users\MSİ\Desktop\Pasta_Pisirme\Pasta_Pisirme\bin\Debug\Pasta_Pisirme.pdb
+C:\Users\MSİ\Desktop\Pasta_Pisirme\Pasta_Pisirme\obj\Debug\Pasta_Pisirme.csprojAssemblyReference.cache
+C:\Users\MSİ\Desktop\Pasta_Pisirme\Pasta_Pisirme\obj\Debug\Pasta_Pisirme.Form1.resources
+C:\Users\MSİ\Desktop\Pasta_Pisirme\Pasta_Pisirme\obj\Debug\Pasta_Pisirme.Properties.Resources.resources
+C:\Users\MSİ\Desktop\Pasta_Pisirme\Pasta_Pisirme\obj\Debug\Pasta_Pisirme.csproj.GenerateResource.cache
+C:\Users\MSİ\Desktop\Pasta_Pisirme\Pasta_Pisirme\obj\Debug\Pasta_Pisirme.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\Pasta_Pisirme\Pasta_Pisirme\obj\Debug\Pasta_Pisirme.exe
+C:\Users\MSİ\Desktop\Pasta_Pisirme\Pasta_Pisirme\obj\Debug\Pasta_Pisirme.pdb
+C:\Users\sen\Desktop\C# PROJELER\Pasta_Pisirme\Pasta_Pisirme\bin\Debug\Pasta_Pisirme.exe.config
+C:\Users\sen\Desktop\C# PROJELER\Pasta_Pisirme\Pasta_Pisirme\bin\Debug\Pasta_Pisirme.exe
+C:\Users\sen\Desktop\C# PROJELER\Pasta_Pisirme\Pasta_Pisirme\bin\Debug\Pasta_Pisirme.pdb
+C:\Users\sen\Desktop\C# PROJELER\Pasta_Pisirme\Pasta_Pisirme\obj\Debug\Pasta_Pisirme.csprojAssemblyReference.cache
+C:\Users\sen\Desktop\C# PROJELER\Pasta_Pisirme\Pasta_Pisirme\obj\Debug\Pasta_Pisirme.Form1.resources
+C:\Users\sen\Desktop\C# PROJELER\Pasta_Pisirme\Pasta_Pisirme\obj\Debug\Pasta_Pisirme.Properties.Resources.resources
+C:\Users\sen\Desktop\C# PROJELER\Pasta_Pisirme\Pasta_Pisirme\obj\Debug\Pasta_Pisirme.csproj.GenerateResource.cache
+C:\Users\sen\Desktop\C# PROJELER\Pasta_Pisirme\Pasta_Pisirme\obj\Debug\Pasta_Pisirme.csproj.CoreCompileInputs.cache
+C:\Users\sen\Desktop\C# PROJELER\Pasta_Pisirme\Pasta_Pisirme\obj\Debug\Pasta_Pisirme.exe
+C:\Users\sen\Desktop\C# PROJELER\Pasta_Pisirme\Pasta_Pisirme\obj\Debug\Pasta_Pisirme.pdb
